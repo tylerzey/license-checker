@@ -1,5 +1,5 @@
 {
-  "name": "license-checker",
+  "name": "license-checker-regexp",
   "description": "Check license info for a package",
   "author": "Dav Glass <davglass@gmail.com>",
   "version": "25.0.1",
@@ -101,12 +101,12 @@
   },
   "preferGlobal": true,
   "bugs": {
-    "url": "http://github.com/davglass/license-checker/issues"
+    "url": "https://github.com/tylerzey/license-checker/issues"
   },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/davglass/license-checker.git"
+    "url": "https://github.com/tylerzey/license-checker.git"
   },
   "nyc": {
     "check-coverage": true,
